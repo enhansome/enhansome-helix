@@ -1,0 +1,310 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Vim-like configuration for Helix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-19T16:34:13Z",
+            "owner": "LGUG2Z",
+            "repo": "helix-vim",
+            "stars": 1279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seth Messer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-11T23:24:59Z",
+            "owner": "megalithic",
+            "repo": "dotfiles",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Andrew Prentice",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-19T23:39:05Z",
+            "owner": "scalarwaves",
+            "repo": "dotfiles",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kangwook Lee",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2025-04-08T04:57:46Z",
+            "owner": "pbzweihander",
+            "repo": ".dotfiles",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-30T20:01:15Z",
+            "owner": "ravsii",
+            "repo": ".helix",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benoît Cortier",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-10-31T12:01:24Z",
+            "owner": "CBenoit",
+            "repo": "dotfiles",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vitor Melo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-01T18:30:36Z",
+            "owner": "vtmx",
+            "repo": "dotfiles",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gian Lu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:34:55Z",
+            "owner": "fusillicode",
+            "repo": "dotfiles",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "helix-editor-config-toml",
+          "description": "A Helix editor configuration (config.toml) for new users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-29T20:12:47Z",
+            "owner": "x448",
+            "repo": "helix-editor-config-toml",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hien Pham",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-07T02:58:18Z",
+            "owner": "hienphamlabs",
+            "repo": "dotfiles",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jackson Frankland",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-25T05:15:34Z",
+            "owner": "jacksonfrankland",
+            "repo": "dotfiles",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Howard Chen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-24T17:31:45Z",
+            "owner": "EDToaster",
+            "repo": "dotfiles",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robert",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2022-09-23T03:29:53Z",
+            "owner": "clo4",
+            "repo": "dotfiles",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arthur Deierlein",
+          "description": "For setting up handlebars and Ember",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-09-04T08:03:25Z",
+            "owner": "c0rydoras",
+            "repo": "stuffdir-arch",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Delaware Valley Regional Planning Commission",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-08-22T17:20:17Z",
+            "owner": "dvrpc",
+            "repo": "oracle-dev-ansible",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bart Dorsey",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Configs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Code snippets in your terminal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-18T15:20:50Z",
+            "owner": "maaslalani",
+            "repo": "nap",
+            "stars": 2218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helix GPT - Code completion LSP for Helix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-01-18T23:32:07Z",
+            "owner": "leona",
+            "repo": "helix-gpt",
+            "stars": 698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helix Shortcut Quiz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-21T19:37:15Z",
+            "owner": "tomgroenwoldt",
+            "repo": "helix-shortcut-quiz",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helix Editor Playground",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-18T17:54:10Z",
+            "owner": "tomgroenwoldt",
+            "repo": "helix-editor-playground",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helix + ZK customized interop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-04-16T04:47:13Z",
+            "owner": "YurkoHoshko",
+            "repo": "helix_zk_notebook",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Misc"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:26:40.575Z",
+    "original_repository": "rajasegar/awesome-helix",
+    "original_repository_sha": "76e4616d6de3fbf25c95801ab4fcfe18150bbbcf",
+    "enhanced_repository": "enhansome/enhansome-helix",
+    "enhanced_repository_description": null,
+    "title": "Awesome Helix 🧬 with stars"
+  }
+}

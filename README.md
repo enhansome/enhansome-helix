@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Websites
 
 * [Official Website](https://helix-editor.com/)
-* [Github](https://github.com/helix-editor/helix) ⭐ 45,827 | 🐛 1,608 | 🌐 Rust | 📅 2026-08-11
+* [Github](https://github.com/helix-editor/helix) ⭐ 45,830 | 🐛 1,607 | 🌐 Rust | 📅 2026-08-11
 * [Reddit](https://www.reddit.com/r/HelixEditor/)
 * [Matrix](https://matrix.to/#/#helix-community:matrix.org)
 * [Helix Editor Tutorials](https://helix-editor-tutorials.com/)
@@ -67,13 +67,13 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Configs
 
 * [A Vim-like configuration for Helix](https://github.com/LGUG2Z/helix-vim) ⭐ 1,278 | 🐛 14 | 📅 2024-02-19
-* [Seth Messer](https://github.com/megalithic/dotfiles/blob/212893035be0c45ec057e85fc381fb2df05e8fa9/config/helix/config.toml) ⭐ 224 | 🐛 10 | 🌐 Lua | 📅 2026-08-11
+* [Seth Messer](https://github.com/megalithic/dotfiles/blob/212893035be0c45ec057e85fc381fb2df05e8fa9/config/helix/config.toml) ⭐ 225 | 🐛 10 | 🌐 Lua | 📅 2026-08-14
 * [Andrew Prentice](https://github.com/scalarwaves/dotfiles/blob/main/helix/config.toml) ⭐ 50 | 🐛 0 | 🌐 Lua | 📅 2024-04-19
 * [Kangwook Lee](https://github.com/pbzweihander/.dotfiles/blob/3b62cf14f420358daf7c98533681305d908493a7/home/.config/helix/config.toml) ⚠️ Archived
 * [Alex](https://github.com/ravsii/.helix) ⭐ 11 | 🐛 0 | 📅 2023-07-30
 * [Benoît Cortier](https://github.com/CBenoit/dotfiles/blob/31c41308327685101219474b7764e071470316c6/helix/.config/helix/config.toml) ⭐ 8 | 🐛 0 | 🌐 Shell | 📅 2025-10-31
 * [Vitor Melo](https://github.com/vtmx/dotfiles/blob/main/config/helix/config.toml) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-08-01
-* [Gian Lu](https://github.com/fusillicode/dotfiles/blob/f047bab450202a1d01295f2666edb1cf14ff5e29/helix/config.toml) ⭐ 7 | 🐛 0 | 🌐 Rust | 📅 2026-08-14
+* [Gian Lu](https://github.com/fusillicode/dotfiles/blob/f047bab450202a1d01295f2666edb1cf14ff5e29/helix/config.toml) ⭐ 7 | 🐛 0 | 🌐 Rust | 📅 2026-08-15
 * [helix-editor-config-toml](https://github.com/x448/helix-editor-config-toml/tree/main) ⭐ 6 | 🐛 0 | 📅 2022-12-29 - A Helix editor configuration (config.toml) for new users.
 * [Hien Pham](https://github.com/hienduyph/dotfiles/blob/18ae38c1eed558e98c50f23722dbd7198cef9748/.config/helix/config.toml) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2026-06-07
 * [Jackson Frankland](https://github.com/jacksonfrankland/dotfiles/blob/main/helix/config.toml) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2026-06-25
@@ -87,7 +87,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Misc
 
-* [Code snippets in your terminal](https://github.com/maaslalani/nap) ⭐ 2,218 | 🐛 17 | 🌐 Go | 📅 2024-05-18
+* [Code snippets in your terminal](https://github.com/maaslalani/nap) ⭐ 2,219 | 🐛 17 | 🌐 Go | 📅 2024-05-18
 * [Helix GPT - Code completion LSP for Helix](https://github.com/leona/helix-gpt) ⚠️ Archived
 * [Helix Shortcut Quiz](https://github.com/tomgroenwoldt/helix-shortcut-quiz) ⭐ 43 | 🐛 6 | 🌐 Rust | 📅 2026-01-21
 * [Helix Editor Playground](https://github.com/tomgroenwoldt/helix-editor-playground) ⭐ 24 | 🐛 0 | 🌐 Rust | 📅 2024-08-18
@@ -99,4 +99,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

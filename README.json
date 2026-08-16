@@ -14,7 +14,7 @@
             "last_commit": "2024-02-19T16:34:13Z",
             "owner": "LGUG2Z",
             "repo": "helix-vim",
-            "stars": 1278
+            "stars": 1277
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-14T19:21:39Z",
+            "last_commit": "2026-08-16T00:41:46Z",
             "owner": "megalithic",
             "repo": "dotfiles",
             "stars": 225
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T04:23:06Z",
+            "last_commit": "2026-08-16T14:18:46Z",
             "owner": "fusillicode",
             "repo": "dotfiles",
             "stars": 7
@@ -264,7 +264,7 @@
             "last_commit": "2026-01-21T19:37:15Z",
             "owner": "tomgroenwoldt",
             "repo": "helix-shortcut-quiz",
-            "stars": 43
+            "stars": 42
           }
         },
         {
@@ -300,7 +300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:45:06.359Z",
+    "last_updated": "2026-08-16T17:44:19.752Z",
     "original_repository": "rajasegar/awesome-helix",
     "original_repository_sha": "76e4616d6de3fbf25c95801ab4fcfe18150bbbcf",
     "enhanced_repository": "enhansome/enhansome-helix",

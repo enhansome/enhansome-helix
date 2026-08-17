@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T14:18:46Z",
+            "last_commit": "2026-08-17T14:04:45Z",
             "owner": "fusillicode",
             "repo": "dotfiles",
             "stars": 7
@@ -236,7 +236,7 @@
             "last_commit": "2024-05-18T15:20:50Z",
             "owner": "maaslalani",
             "repo": "nap",
-            "stars": 2219
+            "stars": 2218
           }
         },
         {
@@ -300,7 +300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:44:19.752Z",
+    "last_updated": "2026-08-17T17:55:11.969Z",
     "original_repository": "rajasegar/awesome-helix",
     "original_repository_sha": "76e4616d6de3fbf25c95801ab4fcfe18150bbbcf",
     "enhanced_repository": "enhansome/enhansome-helix",

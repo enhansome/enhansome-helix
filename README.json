@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 521793675,
             "language": null,
             "last_commit": "2024-02-19T16:34:13Z",
             "owner": "LGUG2Z",
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134790782,
             "language": "Lua",
-            "last_commit": "2026-08-16T00:41:46Z",
+            "last_commit": "2026-08-19T02:53:55Z",
             "owner": "megalithic",
             "repo": "dotfiles",
             "stars": 225
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 542772669,
             "language": "Lua",
             "last_commit": "2024-04-19T23:39:05Z",
             "owner": "scalarwaves",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 78820791,
             "language": "Shell",
             "last_commit": "2025-04-08T04:57:46Z",
             "owner": "pbzweihander",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 640596925,
             "language": null,
             "last_commit": "2023-07-30T20:01:15Z",
             "owner": "ravsii",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178482910,
             "language": "Shell",
             "last_commit": "2025-10-31T12:01:24Z",
             "owner": "CBenoit",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334023118,
             "language": "Lua",
             "last_commit": "2026-08-01T18:30:36Z",
             "owner": "vtmx",
@@ -108,8 +115,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42429307,
             "language": "Rust",
-            "last_commit": "2026-08-18T06:21:30Z",
+            "last_commit": "2026-08-19T04:44:45Z",
             "owner": "fusillicode",
             "repo": "dotfiles",
             "stars": 7
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 582787379,
             "language": null,
             "last_commit": "2022-12-29T20:12:47Z",
             "owner": "x448",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128694013,
             "language": "Shell",
             "last_commit": "2026-06-07T02:58:18Z",
             "owner": "hienphamlabs",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 581677667,
             "language": "Shell",
             "last_commit": "2026-06-25T05:15:34Z",
             "owner": "jacksonfrankland",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 603587427,
             "language": "Shell",
             "last_commit": "2026-07-24T17:31:45Z",
             "owner": "EDToaster",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 484963492,
             "language": "Lua",
             "last_commit": "2022-09-23T03:29:53Z",
             "owner": "clo4",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 652216922,
             "language": "Python",
             "last_commit": "2023-09-04T08:03:25Z",
             "owner": "c0rydoras",
@@ -206,24 +220,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 610483290,
             "language": "Shell",
             "last_commit": "2025-08-22T17:20:17Z",
             "owner": "dvrpc",
             "repo": "oracle-dev-ansible",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Bart Dorsey",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Configs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -232,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 565010765,
             "language": "Go",
             "last_commit": "2024-05-18T15:20:50Z",
             "owner": "maaslalani",
@@ -246,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 747459446,
             "language": "TypeScript",
             "last_commit": "2026-01-18T23:32:07Z",
             "owner": "leona",
@@ -260,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 615740594,
             "language": "Rust",
             "last_commit": "2026-01-21T19:37:15Z",
             "owner": "tomgroenwoldt",
@@ -274,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 648011035,
             "language": "Rust",
             "last_commit": "2024-08-18T17:54:10Z",
             "owner": "tomgroenwoldt",
@@ -288,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 651388520,
             "language": "Shell",
             "last_commit": "2024-04-16T04:47:13Z",
             "owner": "YurkoHoshko",
@@ -300,8 +314,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:54:00.657Z",
+    "last_updated": "2026-08-19T12:33:09.189Z",
     "original_repository": "rajasegar/awesome-helix",
+    "original_repository_id": 659552869,
     "original_repository_sha": "76e4616d6de3fbf25c95801ab4fcfe18150bbbcf",
     "enhanced_repository": "enhansome/enhansome-helix",
     "enhanced_repository_description": null,

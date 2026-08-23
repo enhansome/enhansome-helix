@@ -15,7 +15,7 @@
             "last_commit": "2024-02-19T16:34:13Z",
             "owner": "LGUG2Z",
             "repo": "helix-vim",
-            "stars": 1278
+            "stars": 1279
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 134790782,
             "language": "Lua",
-            "last_commit": "2026-08-20T01:17:07Z",
+            "last_commit": "2026-08-23T00:42:42Z",
             "owner": "megalithic",
             "repo": "dotfiles",
             "stars": 225
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 42429307,
             "language": "Rust",
-            "last_commit": "2026-08-22T11:44:34Z",
+            "last_commit": "2026-08-23T06:49:40Z",
             "owner": "fusillicode",
             "repo": "dotfiles",
             "stars": 7
@@ -246,7 +246,7 @@
             "last_commit": "2024-05-18T15:20:50Z",
             "owner": "maaslalani",
             "repo": "nap",
-            "stars": 2218
+            "stars": 2219
           }
         },
         {
@@ -314,7 +314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:45:01.660Z",
+    "last_updated": "2026-08-23T17:44:51.323Z",
     "original_repository": "rajasegar/awesome-helix",
     "original_repository_id": 659552869,
     "original_repository_sha": "76e4616d6de3fbf25c95801ab4fcfe18150bbbcf",

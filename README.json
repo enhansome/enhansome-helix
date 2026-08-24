@@ -117,7 +117,7 @@
             "archived": false,
             "id": 42429307,
             "language": "Rust",
-            "last_commit": "2026-08-23T06:49:40Z",
+            "last_commit": "2026-08-24T07:03:23Z",
             "owner": "fusillicode",
             "repo": "dotfiles",
             "stars": 7
@@ -314,7 +314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:44:51.323Z",
+    "last_updated": "2026-08-24T14:35:13.290Z",
     "original_repository": "rajasegar/awesome-helix",
     "original_repository_id": 659552869,
     "original_repository_sha": "76e4616d6de3fbf25c95801ab4fcfe18150bbbcf",

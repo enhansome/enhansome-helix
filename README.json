@@ -27,7 +27,7 @@
             "archived": false,
             "id": 134790782,
             "language": "Lua",
-            "last_commit": "2026-08-26T14:58:17Z",
+            "last_commit": "2026-08-26T20:58:02Z",
             "owner": "megalithic",
             "repo": "dotfiles",
             "stars": 226
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 42429307,
             "language": "Rust",
-            "last_commit": "2026-08-26T12:56:57Z",
+            "last_commit": "2026-08-27T03:22:34Z",
             "owner": "fusillicode",
             "repo": "dotfiles",
             "stars": 7
@@ -314,9 +314,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:24:38.810Z",
-    "original_repository": "rajasegar/awesome-helix",
-    "original_repository_id": 659552869,
+    "last_updated": "2026-08-27T11:48:04.308Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 659552869,
+      "language": null,
+      "last_commit": "2026-01-22T05:37:18Z",
+      "owner": "rajasegar",
+      "repo": "awesome-helix",
+      "stars": 248
+    },
     "original_repository_sha": "76e4616d6de3fbf25c95801ab4fcfe18150bbbcf",
     "enhanced_repository": "enhansome/enhansome-helix",
     "enhanced_repository_description": null,

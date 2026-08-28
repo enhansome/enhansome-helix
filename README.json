@@ -27,10 +27,10 @@
             "archived": false,
             "id": 134790782,
             "language": "Lua",
-            "last_commit": "2026-08-26T20:58:02Z",
+            "last_commit": "2026-08-27T19:33:20Z",
             "owner": "megalithic",
             "repo": "dotfiles",
-            "stars": 226
+            "stars": 227
           }
         },
         {
@@ -314,7 +314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:48:04.308Z",
+    "last_updated": "2026-08-28T01:35:45.139Z",
     "original_repository_info": {
       "archived": false,
       "id": 659552869,

@@ -16,7 +16,8 @@
             "owner": "LGUG2Z",
             "repo": "helix-vim",
             "stars": 1280
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 134790782,
             "language": "Lua",
-            "last_commit": "2026-08-27T19:33:20Z",
+            "last_commit": "2026-08-28T20:51:20Z",
             "owner": "megalithic",
             "repo": "dotfiles",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "scalarwaves",
             "repo": "dotfiles",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "pbzweihander",
             "repo": ".dotfiles",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "ravsii",
             "repo": ".helix",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "CBenoit",
             "repo": "dotfiles",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "vtmx",
             "repo": "dotfiles",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -117,11 +124,12 @@
             "archived": false,
             "id": 42429307,
             "language": "Rust",
-            "last_commit": "2026-08-27T03:22:34Z",
+            "last_commit": "2026-08-28T18:34:41Z",
             "owner": "fusillicode",
             "repo": "dotfiles",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "x448",
             "repo": "helix-editor-config-toml",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "hienphamlabs",
             "repo": "dotfiles",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "jacksonfrankland",
             "repo": "dotfiles",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "EDToaster",
             "repo": "dotfiles",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "clo4",
             "repo": "dotfiles",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "c0rydoras",
             "repo": "stuffdir-arch",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "dvrpc",
             "repo": "oracle-dev-ansible",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         }
       ],
       "title": "Configs"
@@ -247,7 +262,8 @@
             "owner": "maaslalani",
             "repo": "nap",
             "stars": 2220
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "leona",
             "repo": "helix-gpt",
             "stars": 697
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "tomgroenwoldt",
             "repo": "helix-shortcut-quiz",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "tomgroenwoldt",
             "repo": "helix-editor-playground",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         },
         {
           "node_type": "item",
@@ -307,14 +326,15 @@
             "owner": "YurkoHoshko",
             "repo": "helix_zk_notebook",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.803Z"
         }
       ],
       "title": "Misc"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:35:45.139Z",
+    "last_updated": "2026-08-29T01:05:14.803Z",
     "original_repository_info": {
       "archived": false,
       "id": 659552869,

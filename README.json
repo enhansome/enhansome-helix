@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vim-like configuration for Helix",
+            "homepage": null,
             "id": 521793675,
             "language": null,
+            "license": null,
             "last_commit": "2024-02-19T16:34:13Z",
+            "open_issues": 14,
             "owner": "LGUG2Z",
             "repo": "helix-vim",
-            "stars": 1280
+            "stars": 1280,
+            "topics": [
+              "configuration",
+              "editor",
+              "helix",
+              "neovim",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -26,12 +37,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗿  dotfilery, configuration, environment settings, automation, etc. 🛖 ",
+            "homepage": "https://megalithic.io",
             "id": 134790782,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-08-28T20:51:20Z",
+            "open_issues": 2,
             "owner": "megalithic",
             "repo": "dotfiles",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "cli",
+              "dotfiles",
+              "elixir",
+              "fish",
+              "ghostty",
+              "hammerspoon",
+              "home-manager",
+              "homebrew",
+              "lua",
+              "macos",
+              "neovim",
+              "nix-darwin",
+              "qmk",
+              "surfingkeys",
+              "tmux",
+              "weechat",
+              "zk",
+              "zmk"
+            ]
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -42,12 +77,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "alacritty, dotfiles, config, fish, helix, starship, sway, toml-bombadil, xplr, zellij",
+            "homepage": null,
             "id": 542772669,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-04-19T23:39:05Z",
+            "open_issues": 0,
             "owner": "scalarwaves",
             "repo": "dotfiles",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "dotfiles",
+              "fish",
+              "helix",
+              "hyprland",
+              "nwg-shell",
+              "rofi",
+              "sway",
+              "waybar",
+              "xplr"
+            ]
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -58,12 +108,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "~ sweet ~",
+            "homepage": null,
             "id": 78820791,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-04-08T04:57:46Z",
+            "open_issues": 0,
             "owner": "pbzweihander",
             "repo": ".dotfiles",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "dotfiles"
+            ]
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -74,12 +131,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My helix config files",
+            "homepage": null,
             "id": 640596925,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-30T20:01:15Z",
+            "open_issues": 0,
             "owner": "ravsii",
             "repo": ".helix",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -90,12 +152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My configurations",
+            "homepage": null,
             "id": 178482910,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-10-31T12:01:24Z",
+            "open_issues": 0,
             "owner": "CBenoit",
             "repo": "dotfiles",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -106,12 +173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dotfiles",
+            "homepage": null,
             "id": 334023118,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-01T18:30:36Z",
+            "open_issues": 0,
             "owner": "vtmx",
             "repo": "dotfiles",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -122,12 +194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".",
+            "homepage": null,
             "id": 42429307,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:34:41Z",
+            "open_issues": 0,
             "owner": "fusillicode",
             "repo": "dotfiles",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -138,12 +215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A post-modern Helix editor configuration (config.toml) for new users",
+            "homepage": null,
             "id": 582787379,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-12-29T20:12:47Z",
+            "open_issues": 0,
             "owner": "x448",
             "repo": "helix-editor-config-toml",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -154,12 +236,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "hienph WorkSpace: nvim, tmux, i3, sway, gnome, alacritty",
+            "homepage": "https://www.hienph.dev",
             "id": 128694013,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-07T02:58:18Z",
+            "open_issues": 0,
             "owner": "hienphamlabs",
             "repo": "dotfiles",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "dotfiles"
+            ]
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -170,12 +259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 581677667,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-06-25T05:15:34Z",
+            "open_issues": 0,
             "owner": "jacksonfrankland",
             "repo": "dotfiles",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -186,12 +280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "various dotfile configurations like .zshrc or helix config.toml",
+            "homepage": null,
             "id": 603587427,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-07-24T17:31:45Z",
+            "open_issues": 0,
             "owner": "EDToaster",
             "repo": "dotfiles",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -202,12 +301,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "My dotfiles",
+            "homepage": null,
             "id": 484963492,
             "language": "Lua",
+            "license": null,
             "last_commit": "2022-09-23T03:29:53Z",
+            "open_issues": 0,
             "owner": "clo4",
             "repo": "dotfiles",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -218,12 +322,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Directory with stuff for my archlinux system",
+            "homepage": null,
             "id": 652216922,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-04T08:03:25Z",
+            "open_issues": 0,
             "owner": "c0rydoras",
             "repo": "stuffdir-arch",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -234,12 +343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 610483290,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-08-22T17:20:17Z",
+            "open_issues": 0,
             "owner": "dvrpc",
             "repo": "oracle-dev-ansible",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         }
@@ -256,12 +370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code snippets in your terminal",
+            "homepage": null,
             "id": 565010765,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-05-18T15:20:50Z",
+            "open_issues": 17,
             "owner": "maaslalani",
             "repo": "nap",
-            "stars": 2220
+            "stars": 2220,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -272,12 +391,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code assistant language server for Helix with support for Copilot/OpenAI/Codeium/Ollama",
+            "homepage": null,
             "id": 747459446,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-18T23:32:07Z",
+            "open_issues": 39,
             "owner": "leona",
             "repo": "helix-gpt",
-            "stars": 697
+            "stars": 697,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -288,12 +412,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn the helix editor keymap on the web!",
+            "homepage": "https://tomgroenwoldt.github.io/helix-shortcut-quiz/",
             "id": 615740594,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-01-21T19:37:15Z",
+            "open_issues": 6,
             "owner": "tomgroenwoldt",
             "repo": "helix-shortcut-quiz",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "game",
+              "helix-editor",
+              "learning",
+              "quiz"
+            ]
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -304,12 +438,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web based playground for the helix editor.",
+            "homepage": null,
             "id": 648011035,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-08-18T17:54:10Z",
+            "open_issues": 0,
             "owner": "tomgroenwoldt",
             "repo": "helix-editor-playground",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         },
@@ -320,12 +459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playground for my notes setup",
+            "homepage": null,
             "id": 651388520,
             "language": "Shell",
+            "license": null,
             "last_commit": "2024-04-16T04:47:13Z",
+            "open_issues": 1,
             "owner": "YurkoHoshko",
             "repo": "helix_zk_notebook",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
         }
@@ -334,15 +478,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:05:14.803Z",
+    "last_updated": "2026-08-29T04:49:32.827Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of resources for the Helix editor",
+      "homepage": null,
       "id": 659552869,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-01-22T05:37:18Z",
+      "open_issues": 2,
       "owner": "rajasegar",
       "repo": "awesome-helix",
-      "stars": 248
+      "stars": 248,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "helix",
+        "helix-editor"
+      ]
     },
     "original_repository_sha": "76e4616d6de3fbf25c95801ab4fcfe18150bbbcf",
     "enhanced_repository": "enhansome/enhansome-helix",

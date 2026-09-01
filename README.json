@@ -199,7 +199,7 @@
             "id": 42429307,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-31T20:12:43Z",
+            "last_commit": "2026-09-01T05:38:55Z",
             "open_issues": 0,
             "owner": "fusillicode",
             "repo": "dotfiles",
@@ -465,7 +465,7 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2024-04-16T04:47:13Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "YurkoHoshko",
             "repo": "helix_zk_notebook",
             "stars": 16,
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:59:12.447Z",
+    "last_updated": "2026-09-01T20:01:37.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of resources for the Helix editor",

@@ -199,7 +199,7 @@
             "id": 42429307,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-08T05:41:21Z",
+            "last_commit": "2026-09-09T07:34:55Z",
             "open_issues": 0,
             "owner": "fusillicode",
             "repo": "dotfiles",
@@ -400,7 +400,7 @@
             "open_issues": 39,
             "owner": "leona",
             "repo": "helix-gpt",
-            "stars": 697,
+            "stars": 696,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T20:03:45.136Z",
+    "last_updated": "2026-09-09T19:56:16.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of resources for the Helix editor",

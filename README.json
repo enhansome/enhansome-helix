@@ -199,7 +199,7 @@
             "id": 42429307,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-09T07:34:55Z",
+            "last_commit": "2026-09-10T07:28:22Z",
             "open_issues": 0,
             "owner": "fusillicode",
             "repo": "dotfiles",
@@ -379,7 +379,7 @@
             "open_issues": 17,
             "owner": "maaslalani",
             "repo": "nap",
-            "stars": 2219,
+            "stars": 2218,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:56:16.062Z",
+    "last_updated": "2026-09-10T19:56:02.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of resources for the Helix editor",
@@ -490,7 +490,7 @@
       "open_issues": 2,
       "owner": "rajasegar",
       "repo": "awesome-helix",
-      "stars": 248,
+      "stars": 247,
       "topics": [
         "awesome",
         "awesome-list",

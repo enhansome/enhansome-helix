@@ -46,7 +46,7 @@
             "open_issues": 2,
             "owner": "megalithic",
             "repo": "dotfiles",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "cli",
               "dotfiles",
@@ -199,7 +199,7 @@
             "id": 42429307,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-10T07:28:22Z",
+            "last_commit": "2026-09-11T08:59:54Z",
             "open_issues": 0,
             "owner": "fusillicode",
             "repo": "dotfiles",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:56:02.670Z",
+    "last_updated": "2026-09-11T19:55:14.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of resources for the Helix editor",

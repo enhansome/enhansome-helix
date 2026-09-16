@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "LGUG2Z",
             "repo": "helix-vim",
-            "stars": 1278,
+            "stars": 1279,
             "topics": [
               "configuration",
               "editor",
@@ -42,7 +42,7 @@
             "id": 134790782,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-09-03T13:36:10Z",
+            "last_commit": "2026-09-16T17:13:08Z",
             "open_issues": 2,
             "owner": "megalithic",
             "repo": "dotfiles",
@@ -199,7 +199,7 @@
             "id": 42429307,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-15T05:35:53Z",
+            "last_commit": "2026-09-16T11:43:56Z",
             "open_issues": 0,
             "owner": "fusillicode",
             "repo": "dotfiles",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T20:21:12.736Z",
+    "last_updated": "2026-09-16T20:20:09.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of resources for the Helix editor",

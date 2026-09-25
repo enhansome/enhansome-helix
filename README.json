@@ -161,7 +161,7 @@
             "open_issues": 0,
             "owner": "CBenoit",
             "repo": "dotfiles",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
@@ -199,7 +199,7 @@
             "id": 42429307,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-24T06:15:37Z",
+            "last_commit": "2026-09-25T06:01:35Z",
             "open_issues": 0,
             "owner": "fusillicode",
             "repo": "dotfiles",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:38:43.675Z",
+    "last_updated": "2026-09-25T20:37:35.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of resources for the Helix editor",

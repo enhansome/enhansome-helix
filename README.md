@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Websites
 
 * [Official Website](https://helix-editor.com/)
-* [Github](https://github.com/helix-editor/helix) ⭐ 46,373 | 🐛 1,692 | 🌐 Rust | 📅 2026-09-22
+* [Github](https://github.com/helix-editor/helix) ⭐ 46,381 | 🐛 1,687 | 🌐 Rust | 📅 2026-09-29
 * [Reddit](https://www.reddit.com/r/HelixEditor/)
 * [Matrix](https://matrix.to/#/#helix-community:matrix.org)
 * [Helix Editor Tutorials](https://helix-editor-tutorials.com/)
@@ -87,7 +87,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Misc
 
-* [Code snippets in your terminal](https://github.com/maaslalani/nap) ⭐ 2,216 | 🐛 17 | 🌐 Go | 📅 2024-05-18
+* [Code snippets in your terminal](https://github.com/maaslalani/nap) ⭐ 2,215 | 🐛 17 | 🌐 Go | 📅 2024-05-18
 * [Helix GPT - Code completion LSP for Helix](https://github.com/leona/helix-gpt) ⚠️ Archived
 * [Helix Shortcut Quiz](https://github.com/tomgroenwoldt/helix-shortcut-quiz) ⭐ 43 | 🐛 6 | 🌐 Rust | 📅 2026-01-21
 * [Helix Editor Playground](https://github.com/tomgroenwoldt/helix-editor-playground) ⭐ 24 | 🐛 0 | 🌐 Rust | 📅 2024-08-18
@@ -99,4 +99,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

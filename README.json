@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "A Vim-like configuration for Helix",
-          "description": null,
+          "description": "LGUG2Z/helix-vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "Seth Messer",
-          "description": null,
+          "description": "megalithic/dotfiles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -73,7 +73,7 @@
         {
           "node_type": "item",
           "title": "Andrew Prentice",
-          "description": null,
+          "description": "scalarwaves/dotfiles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -104,7 +104,7 @@
         {
           "node_type": "item",
           "title": "Kangwook Lee",
-          "description": null,
+          "description": "pbzweihander/.dotfiles",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -127,7 +127,7 @@
         {
           "node_type": "item",
           "title": "Alex",
-          "description": null,
+          "description": "ravsii/.helix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -148,7 +148,7 @@
         {
           "node_type": "item",
           "title": "Benoît Cortier",
-          "description": null,
+          "description": "CBenoit/dotfiles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -169,7 +169,7 @@
         {
           "node_type": "item",
           "title": "Vitor Melo",
-          "description": null,
+          "description": "vtmx/dotfiles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -190,7 +190,7 @@
         {
           "node_type": "item",
           "title": "Gian Lu",
-          "description": null,
+          "description": "fusillicode/dotfiles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -199,7 +199,7 @@
             "id": 42429307,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T09:11:39Z",
+            "last_commit": "2026-10-03T04:43:05Z",
             "open_issues": 0,
             "owner": "fusillicode",
             "repo": "dotfiles",
@@ -232,7 +232,7 @@
         {
           "node_type": "item",
           "title": "Hien Pham",
-          "description": null,
+          "description": "hienphamlabs/dotfiles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -255,7 +255,7 @@
         {
           "node_type": "item",
           "title": "Jackson Frankland",
-          "description": null,
+          "description": "jacksonfrankland/dotfiles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -276,7 +276,7 @@
         {
           "node_type": "item",
           "title": "Howard Chen",
-          "description": null,
+          "description": "EDToaster/dotfiles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -297,7 +297,7 @@
         {
           "node_type": "item",
           "title": "Robert",
-          "description": null,
+          "description": "clo4/dotfiles",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -339,7 +339,7 @@
         {
           "node_type": "item",
           "title": "Delaware Valley Regional Planning Commission",
-          "description": null,
+          "description": "dvrpc/oracle-dev-ansible",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -366,7 +366,7 @@
         {
           "node_type": "item",
           "title": "Code snippets in your terminal",
-          "description": null,
+          "description": "maaslalani/nap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -387,7 +387,7 @@
         {
           "node_type": "item",
           "title": "Helix GPT - Code completion LSP for Helix",
-          "description": null,
+          "description": "leona/helix-gpt",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -408,7 +408,7 @@
         {
           "node_type": "item",
           "title": "Helix Shortcut Quiz",
-          "description": null,
+          "description": "tomgroenwoldt/helix-shortcut-quiz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -434,7 +434,7 @@
         {
           "node_type": "item",
           "title": "Helix Editor Playground",
-          "description": null,
+          "description": "tomgroenwoldt/helix-editor-playground",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -455,7 +455,7 @@
         {
           "node_type": "item",
           "title": "Helix + ZK customized interop",
-          "description": null,
+          "description": "YurkoHoshko/helix_zk_notebook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:24:16.135Z",
+    "last_updated": "2026-10-03T04:48:00.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of resources for the Helix editor",

@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Websites
 
 * [Official Website](https://helix-editor.com/)
-* [Github](https://github.com/helix-editor/helix) ⭐ 46,441 | 🐛 1,706 | 🌐 Rust | 📅 2026-09-29
+* [Github](https://github.com/helix-editor/helix) ⭐ 46,450 | 🐛 1,707 | 🌐 Rust | 📅 2026-09-29
 * [Reddit](https://www.reddit.com/r/HelixEditor/)
 * [Matrix](https://matrix.to/#/#helix-community:matrix.org)
 * [Helix Editor Tutorials](https://helix-editor-tutorials.com/)

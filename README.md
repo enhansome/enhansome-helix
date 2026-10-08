@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Websites
 
 * [Official Website](https://helix-editor.com/)
-* [Github](https://github.com/helix-editor/helix) ⭐ 46,502 | 🐛 1,717 | 🌐 Rust | 📅 2026-09-29
+* [Github](https://github.com/helix-editor/helix) ⭐ 46,518 | 🐛 1,723 | 🌐 Rust | 📅 2026-09-29
 * [Reddit](https://www.reddit.com/r/HelixEditor/)
 * [Matrix](https://matrix.to/#/#helix-community:matrix.org)
 * [Helix Editor Tutorials](https://helix-editor-tutorials.com/)
@@ -72,11 +72,11 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 * [Kangwook Lee](https://github.com/pbzweihander/.dotfiles/blob/3b62cf14f420358daf7c98533681305d908493a7/home/.config/helix/config.toml) ⚠️ Archived
 * [Alex](https://github.com/ravsii/.helix) ⭐ 11 | 🐛 0 | 📅 2023-07-30
 * [Benoît Cortier](https://github.com/CBenoit/dotfiles/blob/31c41308327685101219474b7764e071470316c6/helix/.config/helix/config.toml) ⭐ 10 | 🐛 0 | 🌐 Shell | 📅 2025-10-31
-* [Vitor Melo](https://github.com/vtmx/dotfiles/blob/main/config/helix/config.toml) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-10-07
-* [Gian Lu](https://github.com/fusillicode/dotfiles/blob/f047bab450202a1d01295f2666edb1cf14ff5e29/helix/config.toml) ⭐ 7 | 🐛 0 | 🌐 Rust | 📅 2026-10-07
+* [Vitor Melo](https://github.com/vtmx/dotfiles/blob/main/config/helix/config.toml) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-10-08
+* [Gian Lu](https://github.com/fusillicode/dotfiles/blob/f047bab450202a1d01295f2666edb1cf14ff5e29/helix/config.toml) ⭐ 7 | 🐛 0 | 🌐 Rust | 📅 2026-10-08
 * [helix-editor-config-toml](https://github.com/x448/helix-editor-config-toml/tree/main) ⭐ 6 | 🐛 0 | 📅 2022-12-29 - A Helix editor configuration (config.toml) for new users.
 * [Hien Pham](https://github.com/hienduyph/dotfiles/blob/18ae38c1eed558e98c50f23722dbd7198cef9748/.config/helix/config.toml) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2026-06-07
-* [Jackson Frankland](https://github.com/jacksonfrankland/dotfiles/blob/main/helix/config.toml) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2026-09-24
+* [Jackson Frankland](https://github.com/jacksonfrankland/dotfiles/blob/main/helix/config.toml) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2026-10-08
 * [Howard Chen](https://github.com/EDToaster/dotfiles/blob/main/configs/hx/config.toml) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2026-09-02
 * [Robert](https://github.com/clo4/dotfiles/blob/674dc6417c4d0ffa688d132fd46b027561afcea6/dot_config/helix/config.toml) ⚠️ Archived
 * [Arthur Deierlein](https://github.com/C0rydoras/stuffdir-arch/blob/main/config/helix/config.toml) ⚠️ Archived - For setting up handlebars and Ember
@@ -99,4 +99,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

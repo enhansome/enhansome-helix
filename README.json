@@ -86,7 +86,7 @@
             "open_issues": 0,
             "owner": "scalarwaves",
             "repo": "dotfiles",
-            "stars": 51,
+            "stars": 49,
             "topics": [
               "dotfiles",
               "fish",
@@ -178,7 +178,7 @@
             "id": 334023118,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T01:03:23Z",
+            "last_commit": "2026-10-23T23:13:52Z",
             "open_issues": 0,
             "owner": "vtmx",
             "repo": "dotfiles",
@@ -199,7 +199,7 @@
             "id": 42429307,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-23T06:10:23Z",
+            "last_commit": "2026-10-24T06:36:08Z",
             "open_issues": 0,
             "owner": "fusillicode",
             "repo": "dotfiles",
@@ -285,7 +285,7 @@
             "id": 603587427,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-09-02T21:51:57Z",
+            "last_commit": "2026-10-23T21:25:24Z",
             "open_issues": 0,
             "owner": "EDToaster",
             "repo": "dotfiles",
@@ -400,7 +400,7 @@
             "open_issues": 39,
             "owner": "leona",
             "repo": "helix-gpt",
-            "stars": 694,
+            "stars": 693,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:33:56.791Z",
+    "last_updated": "2026-10-24T19:38:42.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of resources for the Helix editor",

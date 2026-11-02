@@ -42,7 +42,7 @@
             "id": 134790782,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-10-21T21:09:55Z",
+            "last_commit": "2026-11-02T17:59:43Z",
             "open_issues": 3,
             "owner": "megalithic",
             "repo": "dotfiles",
@@ -86,7 +86,7 @@
             "open_issues": 0,
             "owner": "scalarwaves",
             "repo": "dotfiles",
-            "stars": 49,
+            "stars": 48,
             "topics": [
               "dotfiles",
               "fish",
@@ -199,7 +199,7 @@
             "id": 42429307,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-01T07:58:49Z",
+            "last_commit": "2026-11-02T13:49:50Z",
             "open_issues": 0,
             "owner": "fusillicode",
             "repo": "dotfiles",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T21:19:19.913Z",
+    "last_updated": "2026-11-02T23:58:25.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of resources for the Helix editor",

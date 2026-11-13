@@ -42,7 +42,7 @@
             "id": 134790782,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-11-12T22:16:27Z",
+            "last_commit": "2026-11-13T19:25:32Z",
             "open_issues": 3,
             "owner": "megalithic",
             "repo": "dotfiles",
@@ -178,7 +178,7 @@
             "id": 334023118,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T12:00:24Z",
+            "last_commit": "2026-11-13T18:45:04Z",
             "open_issues": 0,
             "owner": "vtmx",
             "repo": "dotfiles",
@@ -199,7 +199,7 @@
             "id": 42429307,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-12T08:55:45Z",
+            "last_commit": "2026-11-13T08:14:29Z",
             "open_issues": 0,
             "owner": "fusillicode",
             "repo": "dotfiles",
@@ -379,7 +379,7 @@
             "open_issues": 17,
             "owner": "maaslalani",
             "repo": "nap",
-            "stars": 2215,
+            "stars": 2216,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.803Z"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:49:30.733Z",
+    "last_updated": "2026-11-13T22:45:01.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of resources for the Helix editor",
